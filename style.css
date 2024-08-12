@@ -1,36 +1,78 @@
-*{
-    margin: 0px;
-    padding: 0px; 
+"{ 
+    margin: 0px
+    padding: 0px
+}"
+
+.body {
+    background-color: aliceblue;
+}
+.pai {
+    background-color: black;
+}
+.botoes {
+    display: flex;
+    position: relative;
+    left: 820px;
+    width: 10px;
+    height: 37px;
     
 }
-
-.img {
-    width: 280px;
-    position: relative;
-    top: 10px;
-    left: 860px
+.logo {
+   display: flex;
+   position: relative;
+    width: 500px;
+    left: 672px;
 }
-
-.logo{
-    width: 100%;
-    position: relative;
-    background-color: rgb(0, 174, 255);
-    height: 250px
-}
-
 .b1 {
-    width: 50px
-    f    
+    color: red;
+    
 }
-
 .b2 {
-    width: 50px
+    color: red;
+    
 }
-
 .b3 {
-    width: 50px
+    color: red;
+    
 }
-
 .b4 {
-    width: 60px
+    color: red;
+    
+}
+.img1{
+    top: 70px;
+    display: flex;
+    position: relative;
+    left: 50px;
+}
+.p1 {
+    color: red;
+    width: 936px;
+    display: flex;
+    position: relative;
+    left: 964px;
+    font-size: 30px;
+    top: -393px;
+}
+.img2 {
+    display: flex;
+    position: relative;
+    top: -325px;
+    left: 50px;
+}
+.img3 {
+    display: flex;
+    position: relative;
+    top: -1316px;
+    width: 771px;
+    left: 915px;
+}
+.p2 {
+    color: red;
+    width: 936px;
+    display: flex;
+    position: relative;
+    left: 916px;
+    font-size: 30px;
+    top: -1304px; 
 }
