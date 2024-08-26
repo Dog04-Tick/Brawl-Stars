@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+    
+}
+
+html{
+    height: 100%;
+}
+
+.img {
+    width: 280px;
+    position: relative;
+    top: 10px;
+    left: 860px;
+}
+
+.logo{
+    width: 100%;
+    position: relative;
+    background-color: rgb(0, 174, 255);
+    height: 292px
+}
+
+.links{
+    position: relative;
+}
+
+.b1 {
+    width: 50px;
+    left:  789px;  
+    position: relative;
+    height: 34px;
+    bottom: 30px;
+}
+
+.b2 {
+    width: 50px;
+    position: relative;
+    left: 801px;
+    height: 34px;
+    bottom: 30px;
+}
+
+.b3 {
+    width: 50px;
+    position: relative;
+    left: 974px;
+    height: 34px;
+    bottom: 30px;
+}
+
+.b4 {
+    width: 60px;
+    position: relative;
+    left: 980px;
+    height: 34px;
+    bottom: 30px;
+}
+
+.imagem1{
+    width: 410px;
+    position: relative;
+    top: 110px;
+    left: 114px;
+}
+
+.imagem2{
+    width: 410px;
+    position: relative;
+    top: 110px;
+    left: 143px;
+}
+
+.imagem3{
+    width: 410px;
+    position: relative;
+    top: 110px;
+    left: 164px;
+}
+
+.imagem4{
+    width: 410px;
+    position: relative;
+    top: 110px;
+    left: 188px;
+}
+
+.imagem5{
+    width: 410px;
+    position: relative;
+    top: 168px;
+    left: 114px;
+}
+
+.imagem6{
+    width: 410px;
+    position: relative;
+    top: 168px;
+    left: 143px;
+}
+
+.imagem7{
+    width: 410px;
+    position: relative;
+    top: 168px;
+    left: 164px;
+}
+
+.imagem8{
+    width: 410px;
+    position: relative;
+    top: 168px;
+    left: 188px;
+}
